@@ -4,6 +4,7 @@ html {
 html.responsive {
     min-width: 0px;
 }
+
 .boxed#top {
     margin: 0 auto;
     overflow: visible;
@@ -2984,13 +2985,15 @@ html.av-burger-overlay-active #top .menu-item-search-dropdown > a {
     color: #fff;
     background-color: #cb2027;
 }
- #top #wrap_all .av-social-link-skype:hover a, #top #wrap_all .av-social-link-skype a:focus {
+ #top #wrap_all .av-social-link-tiktok:hover a, #top #wrap_all .av-social-link-tiktok a:focus {
     color: #fff;
-    background-color: #12a5f4;
+    background-color: #b4b3ee;
 }
  #top #wrap_all .av-social-link-instagram:hover a, #top #wrap_all .av-social-link-instagram a:focus {
     color: #fff;
-    background-color: #a67658;
+    background-color: #e018d0;
+    background: -webkit-linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
 }
  #top #wrap_all .av-social-link-five_100_px:hover a, #top #wrap_all .av-social-link-five_100_px a:focus {
     color: #fff;
